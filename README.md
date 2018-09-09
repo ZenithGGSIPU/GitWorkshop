@@ -15,7 +15,7 @@ Git introduction workshop held to introduce students to Open Source
 git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 ```
 
-- Update Readme.md with your name and be sure to follow the markdown format.(If you wish to learn markdown [click here](https://github.com/satwikkansal/readme_styles)). **DO NOT FORGET THE ## AND -**.
+- Update Readme.md with your name and be sure to follow the markdown format.(If you wish to learn markdown [click here](https://github.com/silent-lad/readme_styles)). **DO NOT FORGET THE ## AND -**.
 
   ```
   ## YOUR NAME
