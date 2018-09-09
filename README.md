@@ -17,12 +17,22 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 
 - Update Readme.md with your name and be sure to follow the markdown format.(If you wish to learn markdown [click here](https://github.com/satwikkansal/readme_styles))
 
-```
-## YOUR NAME
-- Your Branch. (ex:- CSE)
-- Your Year. (ex:- 1st)
-- Your Message. (ex:- Hello.)
-```
+  ```
+  ## YOUR NAME
+  - Your Branch. (ex:- CSE)
+  - Your Year. (ex:- 1st)
+  - Your Message. (ex:- Hello.)
+  ```
+
+- Then push your changes using these 3 commands in git bash :-
+
+  ```
+  git add .
+  git commit -m "I , [Insert your name] was here"
+  git push
+  ```
+
+- Now you have to make a pull request so go to pull request section of your repo and make a new pull request. By first clicking on _New Pull Request_ and then click on _Create Request_.
 
 ---
 

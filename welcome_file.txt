@@ -1,4 +1,0 @@
-=========================================This is Git Workshop Repository============================== 
-#	ADD YOUR NAME , ROLL NO 
-#	WELCOME TO OPEN SOURCE 
-PRATYUSH TIWARI ECE I 4061462818
