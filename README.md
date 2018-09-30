@@ -34,3 +34,7 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Ritvik Singh Rautela
 - CSE 3rd year
+
+### Yogesh kumar 
+- CSE 1st year
+
