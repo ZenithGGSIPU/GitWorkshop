@@ -44,5 +44,6 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 ### Deepanshu Chauhan
 - IT 2nd year
 
-
+### Sachin Bhola 
+- IT 1st year
 
