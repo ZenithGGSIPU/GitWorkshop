@@ -50,3 +50,7 @@ Git introduction workshop held to introduce students to Open Source
 ### Ashutosh Varma
 - CSE 1st Year
 
+### Vivek Sharma
+- IT 2nd Year
+
+
