@@ -21,3 +21,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Arnav Anand
 - IT 2nd year
+
+### Nipul Singal
+- IT 1st year
