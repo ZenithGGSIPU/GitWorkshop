@@ -39,7 +39,4 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 # THE LIST :-
 
 ### Divyansh Tripathi
-
-- CSE
-- 1st
-- Hey,I'm silentlad.
+- Hi, this is an example .
