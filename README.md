@@ -40,3 +40,7 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Tanya Agrawal
 - IT 1st year
+
+### Kaustubh Singh Rautela 
+- My Brothers run this club
+
