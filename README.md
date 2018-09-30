@@ -68,4 +68,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Manorit Chawdhry 
 - CSE 1st Year
 
-
+### Anshika Mankotia
+- CSE 1st year
+-
