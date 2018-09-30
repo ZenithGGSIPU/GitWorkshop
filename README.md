@@ -40,3 +40,6 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 
 ### Divyansh Tripathi
 - Hi, this is an example .
+
+### New Name
+- New message.
