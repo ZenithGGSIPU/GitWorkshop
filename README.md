@@ -47,3 +47,5 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 ### Sachin Bhola 
 - IT 1st year
 
+### Arnav Anand
+- IT 2nd year
