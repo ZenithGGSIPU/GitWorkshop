@@ -38,3 +38,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Yogesh kumar 
 - CSE 1st year
 
+### Kaustubh Singh Rautela 
+- My Brother runs this club
+
