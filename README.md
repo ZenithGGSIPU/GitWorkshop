@@ -6,40 +6,78 @@ Git introduction workshop held to introduce students to Open Source
 
 > YOUR FIRST INTRO TO OPEN SOURCE LEARNING
 
-## Follow the following steps:-
-
-- Fork this repo from the fork button up above.
-- Clone this repo on your computer by the following command in GIT bash.
-
-```sh
-git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
-```
-
-- Update Readme.md with your name and be sure to follow the markdown format.(If you wish to learn markdown [click here](https://github.com/silent-lad/readme_styles)). **DO NOT FORGET THE ## AND -**.
-
-  ```
-  ## YOUR NAME
-  - Your Branch. (ex:- CSE)
-  - Your Year. (ex:- 1st)
-  - Your Message. (ex:- Hello.)
-  ```
-
-- Then push your changes using these 3 commands in git bash :-
-
-  ```
-  git add .
-  git commit -m "I , [Insert your name] was here"
-  git push
-  ```
-
-- Now you have to make a pull request so go to pull request section of your repo and make a new pull request. By first clicking on _New Pull Request_ and then click on _Create Request_.
-
----
-
 # THE LIST :-
 
 ### Divyansh Tripathi
 - Hi, this is an example .
 
-### New Name
-- New message.
+### Deepanshu Chauhan
+- IT 2nd year .
+
+### Piyush Khurana
+- IT 2nd year.
+
+### Sachin Bhola 
+- IT 1st year
+
+### Swaraj Routray
+- IT 1st year
+
+### Arnav Anand
+- IT 2nd year
+
+### Nipul Singal
+- IT 1st year
+
+### Shorya Jain
+- IT 2nd year
+
+### Ritvik Singh Rautela
+- CSE 3rd year
+
+### Yogesh kumar 
+- CSE 1st year
+
+### Divyansh Rastogi
+- IT 1st year
+
+### Tanya Agrawal
+- IT 1st year
+
+### Kaustubh Singh Rautela 
+- My Brothers run this club
+
+### Ashutosh Varma
+- CSE 1st Year
+
+### Vivek Sharma
+- IT 2nd Year
+
+### Shivali Gakhar
+- IT 1st year
+
+### Sanket Shivam
+- ECE 1st Year
+
+### Amay Kumar
+- IT 1st year
+
+### Sanyam Jain
+- ECE 1st Year
+
+### Manorit Chawdhry 
+- CSE 1st Year
+
+### Anshika Mankotia
+- CSE 1st year
+
+### Devansh Bindlish
+- IT 1st Year
+
+### Gaurav Jain
+- CSE 1st Year
+
+### Saksham Jain
+
+### Ujjwal Negi
+- CSE 1st Year
