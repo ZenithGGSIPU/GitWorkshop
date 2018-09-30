@@ -38,3 +38,5 @@ Git introduction workshop held to introduce students to Open Source
 ### Yogesh kumar 
 - CSE 1st year
 
+### Divyansh Rastogi
+- IT 1st year
