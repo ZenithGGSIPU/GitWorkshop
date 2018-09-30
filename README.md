@@ -42,7 +42,9 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 - Hi, this is an example .
 
 ### Deepanshu Chauhan
-- IT 2nd year
+- IT 2nd year .
+### Piyush Khurana
+- IT 2nd year.
 
 
 
