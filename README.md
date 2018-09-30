@@ -70,4 +70,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Anshika Mankotia
 - CSE 1st year
--
+
+### Devansh Bindlish
+- IT 1st Year
