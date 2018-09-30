@@ -44,3 +44,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Kaustubh Singh Rautela 
 - My Brothers run this club
 
+### Vivek Sharma
+- IT 2nd Year
+
