@@ -31,3 +31,5 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Shorya Jain
 - IT 2nd year
+### Yogesh kumar 
+- CSE 1st year
