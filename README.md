@@ -13,11 +13,16 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Deepanshu Chauhan
 - IT 2nd year .
+
 ### Piyush Khurana
 - IT 2nd year.
 
 ### Sachin Bhola 
 - IT 1st year
 
+### Swaraj Routray
+- IT 1st year
+
 ### Arnav Anand
 - IT 2nd year
+
