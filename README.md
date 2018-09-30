@@ -52,5 +52,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Vivek Sharma
 - IT 2nd Year
-
+### Sanyam Jain
+- ECE 1st Year
 
