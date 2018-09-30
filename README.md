@@ -34,7 +34,7 @@ git clone git@github.com:ZenithGGSIPU/GitWorkshop.git
 
 - Now you have to make a pull request so go to pull request section of your repo and make a new pull request. By first clicking on _New Pull Request_ and then click on _Create Request_.
 
----
+---Akash is here
 
 # THE LIST :-
 
