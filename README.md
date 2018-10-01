@@ -82,6 +82,9 @@ Git introduction workshop held to introduce students to Open Source
 ### Ujjwal Negi
 - CSE 1st Year
 
+### Sakshi 
+- IT 1st year
+
 ### Manind Gera
 - ECE 2nd Year
 
@@ -99,4 +102,3 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Sakshi Verma
 - BBA.LLB 3rd Year
-
