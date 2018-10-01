@@ -118,3 +118,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Sachin Kumar Singh
 - IT 1st Year
 
+### Aayush Malhotra
+- CSE 2nd year
+
