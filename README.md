@@ -81,3 +81,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Ujjwal Negi
 - CSE 1st Year
+
+### Aakash Sangwan
+- CSE 1st Year
