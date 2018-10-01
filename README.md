@@ -84,3 +84,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Parth Arora
 - CSE 1st year
+
+### Sakshi Verma
+- BBA.LLB 3rd Year
