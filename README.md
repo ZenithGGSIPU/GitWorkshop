@@ -84,3 +84,5 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Parth Arora
 - CSE 1st year
+### Garvit Khurana
+- IT 1st year 
