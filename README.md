@@ -88,3 +88,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Manender 
 - CSE 1st Year
 
+### Sakshi Verma
+- BBA.LLB 3rd Year
+
