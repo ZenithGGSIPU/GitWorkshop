@@ -115,5 +115,8 @@ Git introduction workshop held to introduce students to Open Source
 ### Kanu Priya
 - IT 1st year
 
+### Sachin Kumar Singh
+- IT 1st Year
+
 
 
