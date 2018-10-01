@@ -84,3 +84,19 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Manind Gera
 - ECE 2nd Year
+
+### Aakash Sangwan
+- CSE 1st Year
+
+### Parth Arora
+- CSE 1st year
+
+### Garvit Khurana
+- IT 1st year 
+
+### Manender 
+- CSE 1st Year
+
+### Sakshi Verma
+- BBA.LLB 3rd Year
+
