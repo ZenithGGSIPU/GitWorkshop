@@ -109,3 +109,9 @@ Git introduction workshop held to introduce students to Open Source
 ### Sejal Gupta
 -IT 1st year
 
+### Siddhant Varma
+- ECE 2nd year
+
+
+
+
