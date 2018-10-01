@@ -106,5 +106,15 @@ Git introduction workshop held to introduce students to Open Source
 ### Sakshi Verma
 - BBA.LLB 3rd Year
 
-### Saurav Arya
-- CSE 1st Year
+### Sejal Gupta
+-IT 1st year
+
+### Siddhant Varma
+- ECE 2nd year
+
+### Kanu Priya
+- IT 1st year
+
+### Sachin Kumar Singh
+- IT 1st Year
+
