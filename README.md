@@ -112,6 +112,8 @@ Git introduction workshop held to introduce students to Open Source
 ### Siddhant Varma
 - ECE 2nd year
 
+### Kanu Priya
+- IT 1st year
 
 
 
