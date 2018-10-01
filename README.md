@@ -106,3 +106,6 @@ Git introduction workshop held to introduce students to Open Source
 ### Sakshi Verma
 - BBA.LLB 3rd Year
 
+### Siddhant Varma
+- ECE 2nd year
+
