@@ -125,6 +125,9 @@ Git introduction workshop held to introduce students to Open Source.
 - CSE 2nd year
 
 ### Eshaan Bansal
-- IT 1st year, <a href="https://eshaan7.github.io/">say hi!</a>
+- IT 1st year. [say hi!](https://eshaan7.github.io/)
+
+### Saurav Arya
+- CSE 1st Year
 
 
