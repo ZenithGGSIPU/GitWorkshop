@@ -6,6 +6,13 @@ Git introduction workshop held to introduce students to Open Source.
 
 > YOUR FIRST INTRO TO OPEN SOURCE LEARNING
 
+## Steps to follow
+- Fork this repo
+- Add your name,course and year below.
+- Commit change with your name as the message.
+- Create new pull requests.
+- We will merge it if the format is correct.
+
 # THE LIST :-
 
 ### Divyansh Tripathi
