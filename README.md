@@ -41,6 +41,9 @@ Git introduction workshop held to introduce students to Open Source.
 ### Divyansh Rastogi
 - IT 1st year
 
+### Sachin Bhola 
+- IT 1st year 
+
 ### Tanya Agrawal
 - IT 1st year
 
@@ -107,7 +110,7 @@ Git introduction workshop held to introduce students to Open Source.
 - BBA.LLB 3rd Year
 
 ### Sejal Gupta
--IT 1st year
+- IT 1st year
 
 ### Siddhant Varma
 - ECE 2nd year
