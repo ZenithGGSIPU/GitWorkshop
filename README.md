@@ -38,9 +38,6 @@ Git introduction workshop held to introduce students to Open Source.
 
 ### Shorya Jain
 - IT 2nd year
-### mukesh gaur
--IT Ist year
-
 ### Ritvik Singh Rautela
 - CSE 3rd year
 
@@ -139,4 +136,5 @@ Git introduction workshop held to introduce students to Open Source.
 ### Saurav Arya
 - CSE 1st Year
 
-
+### mukesh gaur
+- IT Ist year
