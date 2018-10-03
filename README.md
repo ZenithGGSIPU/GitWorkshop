@@ -140,5 +140,5 @@ Git introduction workshop held to introduce students to Open Source.
 ### mukesh gaur
 - IT Ist year
 
-### Aeshitha Mathur
+### Aeshita Mathur
 - CSE 1st year
