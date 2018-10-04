@@ -33,6 +33,9 @@ Git introduction workshop held to introduce students to Open Source.
 ### Arnav Anand
 - IT 2nd year
 
+## suraj sah
+- cse 1st year
+
 ### Nipul Singal
 - IT 1st year
 
@@ -136,9 +139,9 @@ Git introduction workshop held to introduce students to Open Source.
 ### Saurav Arya
 - CSE 1st Year
 
-
 ### mukesh gaur
 - IT Ist year
 
 ### Aeshita Mathur
 - CSE 1st year
+
