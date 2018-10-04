@@ -4,7 +4,7 @@ Git introduction workshop held to introduce students to Open Source.
 
 # WELCOME TO GIT WORKSHOP REPO
 
-> YOUR FIRST INTRO TO OPEN SOURCE LEARNING
+> YOUR FIRST INTRODUCTION TO OPEN SOURCE LEARNING
 
 ## Steps to follow
 - Fork this repo
