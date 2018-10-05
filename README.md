@@ -146,4 +146,4 @@ Git introduction workshop held to introduce students to Open Source.
 - CSE 1st year
 
 ### Lavkesh 
-> *IT 1st Year*
+- IT 1st Year
