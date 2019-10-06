@@ -27,5 +27,5 @@ Git introduction workshop held to introduce students to Open Source
 - IT 2nd year
 
 ### Nipul Singal
-- IT 1st year
+- IT 2nd year(3rd Sem)
 
