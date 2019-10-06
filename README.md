@@ -37,7 +37,7 @@ Git introduction workshop held to introduce students to Open Source.
 - cse 1st year
 
 ### Nipul Singal
-- IT 1st year
+- IT 2nd year(3rd Sem)
 
 ### Shorya Jain
 - IT 2nd year
