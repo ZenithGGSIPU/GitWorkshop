@@ -29,3 +29,5 @@ Git introduction workshop held to introduce students to Open Source
 ### Nipul Singal
 - IT 2nd year(3rd Sem)
 
+### Shashank
+- Pass Out
