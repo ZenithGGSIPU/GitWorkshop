@@ -75,7 +75,7 @@ Git introduction workshop held to introduce students to Open Source.
 - IT 1st year
 
 ### Sanyam Jain
-- ECE 1st Year
+- ECE 2nd Year
 
 ### Manorit Chawdhry 
 - CSE 1st Year
