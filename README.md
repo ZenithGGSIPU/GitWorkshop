@@ -73,6 +73,6 @@ Git introduction workshop held to introduce students to Open Source
 - ECE 1st Year
 
 ### Manorit Chawdhry 
-- CSE 1st Year
+- CSE 2st Year
 
 
